@@ -278,22 +278,6 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [咪蒙标题](./prompts/咪蒙标题.md) by Haibo Liu
 - [Summarizer ㆍYouTube PDF Book Article Web Text Code](./prompts/Summarizer%20%E2%80%A2YouTube%20PDF%20Book%20Article%20Web%20Text%20Code.md) by Frames
 
-
-
-
-
-
-## Open Source GPTs
-GitHub repos with prompts, actions and knowledge files of existing GPTs.
-
-- [Open Data Germany](https://github.com/stefangrotz/OpenDataGermanyGPT)
-- [EsperantoGPT](https://github.com/parolteknologio/EsperantoGPT)
-
-## GPT Prompt Analysis
-Analysis and summaries of the GPT prompts.
-
-- [GPT Prompt Notes](https://grantjenks.github.io/gpt-prompt-notes/)
-
 ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=linexjlin/GPTs)
